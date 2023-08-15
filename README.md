@@ -11,5 +11,7 @@ This repository compiles all materials associated with my MSc thesis. This inclu
 - numerical results from thesis (see appendix)
 - serial numbers of transducers (first page of lab notebook)
 - table of which files were used in my thesis (and which figures they correspond to)
+- latex source code for thesis
+- transducer spec sheets
   
-The goal of this repository is to act as a long term data storage and to help future students access
+The goal of this repository is to act as a long-term data storage and to help future students access everything necessary to continue this research. 

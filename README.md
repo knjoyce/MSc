@@ -22,6 +22,8 @@ This repository compiles all materials associated with my MSc thesis. This inclu
 - serial numbers of transducers (first page of lab notebook)
 - latex source code for thesis
 - transducer spec sheets
+- supervisory meeting slides
+- conference poster
 
 
 

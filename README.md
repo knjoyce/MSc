@@ -2,17 +2,27 @@ The goal of this repository is to act as a long-term data storage and to help fu
 
 This repository compiles all materials associated with my MSc thesis. This includes:
 
-- all raw data (.csv and .sta files)
-- final thesis document
-- all figures in my thesis
-- data frame (describing which experiment corresponds to each data file)
+/Code
 - python codes (importing, fft, peak finding, synthetic data, fwhm, curve fitting)
 - jupyter notebooks
+
+/Data
+- all raw data (.csv and .sta files)
+- table of figures and corresponding data files used in my thesis
+- data frame (describing which experiment corresponds to each data file)
+
+/Thesis
+- final thesis document
 - scan of lab notebook 
 - google slides document used to make figures (ie experiment setups)
-- numerical results from thesis (see appendix)
+- numerical results from thesis (see thesis appendix)
 - serial numbers of transducers (first page of lab notebook)
-- table of which files were used in my thesis (and which figures they correspond to)
 - latex source code for thesis
 - transducer spec sheets
+
+/Figure
+- all figures in my thesis
+
+
+
   

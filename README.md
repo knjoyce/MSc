@@ -24,6 +24,7 @@ This repository compiles all materials associated with my MSc thesis. This inclu
 - transducer spec sheets
 - supervisory meeting slides
 - conference poster
+- department seminar slides
 
 
 

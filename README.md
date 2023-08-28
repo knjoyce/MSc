@@ -1,3 +1,5 @@
+The goal of this repository is to act as a long-term data storage and to help future students access everything necessary to continue this research. 
+
 This repository compiles all materials associated with my MSc thesis. This includes:
 
 - all raw data (.csv and .sta files)
@@ -14,4 +16,3 @@ This repository compiles all materials associated with my MSc thesis. This inclu
 - latex source code for thesis
 - transducer spec sheets
   
-The goal of this repository is to act as a long-term data storage and to help future students access everything necessary to continue this research. 

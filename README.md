@@ -11,17 +11,19 @@ This repository compiles all materials associated with my MSc thesis. This inclu
 - table of figures and corresponding data files used in my thesis
 - data frame (describing which experiment corresponds to each data file)
 
+/Figure
+- all figures in my thesis
+- google slides document used to make figures (ie experiment setups)
+
 /Thesis
 - final thesis document
 - scan of lab notebook 
-- google slides document used to make figures (ie experiment setups)
 - numerical results from thesis (see thesis appendix)
 - serial numbers of transducers (first page of lab notebook)
 - latex source code for thesis
 - transducer spec sheets
 
-/Figure
-- all figures in my thesis
+
 
 
 
